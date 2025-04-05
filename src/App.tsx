@@ -5,24 +5,36 @@ import { Home, MapPin, Bed, Bath, Square, Phone, Mail, X, ChevronLeft, ChevronRi
 const properties = [
   {
     id: 1,
-    title: "Villa",
-    location: "Saligramam",
-    price: "3 Crores",
-    beds: 5,
+    title: "Independent House",
+    location: "Valasaravakkam",
+    price: "5.9 Crores",
+    beds: 6,
     baths: 6,
     sqft: "6,200",
     landmarks: [
-      "Vadapalani Temple - 1.2 km",
-      "Forum Vijaya Mall - 2 km",
-      "Vadapalani Metro Station - 1.5 km",
-      "PSBB School - 0.8 km"
+      "Valasaravakkam Metro Station - 2.5 km",
+      "Supermarket and Hospital - 2.5 km",
+      "AGS Cinemas - 2 km",
+      "Devi Academy School - 1 km"
     ],
-    previewVideo: "https://player.vimeo.com/external/371433846.sd.mp4?s=236da2f3c0fd273d2c6d9a064f3ae35579b2bbdf&profile_id=164&oauth2_token_id=57447761",
-    tourVideo: "https://player.vimeo.com/external/449759244.sd.mp4?s=d5f3da46ddc17aa69a7de84f1e420610ecd2a5b8&profile_id=164&oauth2_token_id=57447761",
+    previewVideo: "video1.mp4",
+    tourVideo: "video1.mp4",
     images: [
-      "https://images.unsplash.com/photo-1613490493576-7fde63acd811?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1613977257363-707ba9348227?auto=format&fit=crop&w=1600&q=80",
-      "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?auto=format&fit=crop&w=1600&q=80"
+      "te1.jpg",
+      "h1.jpg",
+      
+      "tr1.jpg",
+      "r3.jpg",
+      "b1.jpg",
+      "r1.jpg",
+      "r2.jpg",
+      
+      "hv1.jpg",
+      "ht1.jpg",
+      "h2.jpg",
+      "l1.jpg",
+      "tv1.jpg",
+      
     ],
     isReady: true
   },
